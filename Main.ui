@@ -53,6 +53,11 @@
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
     <property name="text">
      <string>Calcular MD</string>
     </property>
@@ -142,7 +147,7 @@
      <x>0</x>
      <y>0</y>
      <width>888</width>
-     <height>21</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>
